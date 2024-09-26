@@ -30,4 +30,6 @@ int main(){
 
     media=somma/cont;
     printf("la media e: %.2f", media);
+
+    return 0;
 }
