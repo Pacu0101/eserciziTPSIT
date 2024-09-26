@@ -27,4 +27,6 @@ int main(){
     } while(n!=0 && n1!=0);
 
     printf("hai inserito uno o due 0 nella divisione");
+
+    return 0;
 }
