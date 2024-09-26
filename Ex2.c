@@ -24,4 +24,6 @@ int main(){
 
     printf("\nLa somma e: %d", somProd);
 
+    return 0;
+
 }
