@@ -38,4 +38,6 @@ int main(){
     printf("\nla differenza e stata zero %d volte", null);
     printf("\nla differenza e stata pari %d volte", pari);
     printf("\nla differenza e stata dispari %d volte", dispari);
+
+    return 0;
 }
